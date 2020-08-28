@@ -1,221 +1,147 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , A&E HD
 https://ul.cdn946.net:8443/hls/yxvanb.m3u8?s=uSf0jOuOKVVlDeo9lGi_xw&e=1598610195
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Animal Planet
 https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=81ljoVMPjk_4nIU4N_n6Uw&e=1598611012
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ATV
 https://ul.cdn946.net:8443/hls/cnll0nnczx.m3u8?s=-kxeAiEKvM0DDmfZBXd7iQ&e=1598611324
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , AXN
 https://ul.cdn946.net:8443/hls/yekq1q579s8muxn.m3u8?s=zT-R8uRZjNXdUjoi6DI0ng&e=1598611410
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Boomerang
 https://ul.cdn946.net:8443/hls/kz6wjgzj5h.m3u8?s=04gRyKVf8NW7tWOBdKeCug&e=1598611528
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Canal 5 México
 https://ul.cdn946.net:8443/hls/r3aiivtasuq.m3u8?s=zYq6V-5MxrwrIUbLZ1IqGg&e=1598611671
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Caracol HD
 https://e3.julinewr.xyz/ingest01/65951.m3u8?sf=SGNmMWdaazg4NQ==&token=W8PXe7d9XsiCuknDyn-_Xw&expires=1598604600&rnd=
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Cartoon Network
 https://ul.cdn946.net:8443/hls/dmsz3.m3u8?s=tpSmcY8bmdHMP7E8Gfgngw&e=1598611942
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Cinecanal
 https://ul.cdn946.net:8443/hls/qvkghmyyoej49n.m3u8?s=VCAfQ1vPieH5QgrJFKyFGQ&e=1598612129
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Cinemax
 https://ul.cdn946.net:8443/hls/33ez7s.m3u8?s=UVuoZzlvtBhYr8clvAJj4g&e=1598612212
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , CNN En Español
 https://ul.cdn946.net:8443/hls/smc6hmn7tnzh.m3u8?s=zCfimTWoIW2yJlmItHQ2hA&e=1598613226
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Comedy Central
 https://ul.cdn946.net:8443/hls/api170jhlk8ft2x.m3u8?s=zP_ewWFhDWGasTaWX7o9bw&e=1598613694
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , De Película
 https://ul.cdn946.net:8443/hls/4elfkzo3pugm9.m3u8?s=Mn_VOR9MikzeKuotokNTjg&e=1598613902
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery Channel
 https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=7QpSCvnUsVEavoBlIePhxQ&e=1598616921
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery H&H
 https://ul.cdn946.net:8443/hls/65seizd6wq8ai1k.m3u8?s=uvkqeVzkinst4cERG3z62Q&e=1598616012
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery ID
 https://ul.cdn946.net:8443/hls/oag7ozok5vh.m3u8?s=dnrOflDgqvwtv0S5oHeRhQ&e=1598616350
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery TLC
 https://ul.cdn946.net:8443/hls/ekxfnso4iqk.m3u8?s=OR0PBp8MxyPGsNqZsAELOw&e=1598621732
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery Kids
 https://ul.cdn946.net:8443/hls/51wwpib23i7aiv6.m3u8?s=B5Yq5wKY8ibzxTqTREXITA&e=1598616560
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Discovery Turbo
 https://ul.cdn946.net:8443/hls/p0eo2j0oaw.m3u8?s=GHs7zL14jxD62n2sdQPOxw&e=1598616759
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Disney Channel
 https://ul.cdn946.net:8443/hls/1i90y8b5s.m3u8?s=he3Yki49QvwTu72qybD5bg&e=1598617686
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Disney XD
 https://ul.cdn946.net:8443/hls/ccury3.m3u8?s=AWNkUtBihUr7Fzu__ku_Eg&e=1598617806
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , DIRECTV SPORTS
 https://e4.julinewr.xyz/ingest013/64729.m3u8?sf=NWR2Ykg1WUU4bQ==&token=lSCx5OfDK24mFBdk2czpVg&expires=1598648667&rnd=
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , DIRECTV SPORTS 2
 https://ul.cdn946.net:8443/hls/xl27bc.m3u8?s=-vR-Y-K-LCNBrU218i7f_g&e=1598656446
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , E!
 https://ul.cdn946.net:8443/hls/12db29.m3u8?s=tgJ5UEzmsotoM_LBurE8IA&e=1598617942
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN
 https://ul.cdn946.net:8443/hls/lz7impzvm68.m3u8?s=UHZ5DIdC54Apj083ogavKg&e=1598655292
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN Mexico
 https://ul.cdn946.net:8443/hls/hr138h6t9.m3u8?s=hVqqwx5w1IaM-RAfbcM0NQ&e=1598655352
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN 2
 https://ul.cdn946.net:8443/hls/vgeso3z2.m3u8?s=t7ObxcgmYXECOtoeBz5EqQ&e=1598655467
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN 2 Mexico
 https://ul.cdn946.net:8443/hls/kzksjhw9uzc0.m3u8?s=Qjq1yO0EoiWPBB_1Olu6bg&e=1598655503
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN 3
 https://ul.cdn946.net:8443/hls/hvzsbc.m3u8?s=-Lfyln6wXPhsljCL1jh76Q&e=1598655629
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN 3 Mexico
 https://ul.cdn946.net:8443/hls/u3y1gg9q.m3u8?s=BEP4QL2nqvEwQWVPOykkWQ&e=1598655632
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , ESPN+
 https://ul.cdn946.net:8443/hls/dkswf8r1yww.m3u8?s=0RAlzJpGYyRxQKeV9pNdWg&e=1598655719
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FX
 https://ul.cdn946.net:8443/hls/jd4zb3.m3u8?s=5iVoGZQGIy0ovT0SStg4nw&e=1598618293
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FXM
 https://ul.cdn946.net:8443/hls/13biiju705q96ot.m3u8?s=VpOWE3pGNsYv6TxFEH8BmQ&e=1598618354
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FOX
 https://ul.cdn946.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=P8i4VTM9t9NXrt6I4dnkuw&e=1598653944
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FOX Life
 https://ul.cdn946.net:8443/hls/o40jqy6rw.m3u8?s=BQa2hd5BPli9544w3opnQg&e=1598654581
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FOX Premium Action
 https://ul.cdn946.net:8443/hls/7xrwf2.m3u8?s=VaB5ppuBjGHW85CkpOSKCg&e=1598654631
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , FOX Premium Comedy
 https://ul.cdn946.net:8443/hls/mx2eqx25s.m3u8?s=Q91Zta1zTSz_aP3_9MNcCg&e=1598654723
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Fox Sports
 https://ul.cdn946.net:8443/hls/lprwn2yovd.m3u8?s=GG3LmeefkvKO6-3ZNCLDMA&e=1598654893
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Fox Sports 2
 https://ul.cdn946.net:8443/hls/2a6ha5vw.m3u8?s=gcakqBOFjJApbgUp7K0q5A&e=1598654987
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Fox Sports 3
 https://ul.cdn946.net:8443/hls/84hsa32a.m3u8?s=wrs-n_RXx48eb_JViYSP9g&e=1598655128
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Golden
 https://ul.cdn946.net:8443/hls/26y9kk69e02.m3u8?s=wJsssp-D6yx49jdF8klNhg&e=1598618720
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Golden Edge
 https://ul.cdn946.net:8443/hls/auabzgk8.m3u8?s=fRIm2ZK7Z90PnV4T1QeLtw&e=1598618913
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Golden Plus
 https://ul.cdn946.net:8443/hls/iwpiozepr.m3u8?s=a5xNFdIxKlmK1oAEqhiOow&e=1598618975
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , GOL TV
 https://ul.cdn946.net:8443/hls/y1qrhvyuvph.m3u8?s=wZvz7VcedCKpvIoFgf3Blw&e=1598619077
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , HBO 2
 https://ul.cdn946.net:8443/hls/td3zfn7dqx.m3u8?s=gJawGWheAbIIHA_JoP59xg&e=1598619218
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , HBO Family
 https://ul.cdn946.net:8443/hls/ojp1z6ukt31d2p.m3u8?s=BBfaEBwwEzdVHRmZu2AS7w&e=1598619284
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , HBO
 https://ul.cdn946.net:8443/hls/i9dga0p.m3u8?s=ji_oei_IHiSnXxmNIE3sXA&e=1598619452
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , HBO Extreme
 https://ul.cdn946.net:8443/hls/9xv2qs.m3u8?s=iSgmfD9LXZlNGGlMmRUkXA&e=1598620350
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , HBO+
 https://ul.cdn946.net:8443/hls/dessr6srnzki.m3u8?s=ywrHRfkHmzTNVsFDdzrR3w&e=1598619592
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , History
 https://ul.cdn946.net:8443/hls/a8h83tx.m3u8?s=2HLALeVxQN_m5h_Z-1grfw&e=1598620008
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , History 2
 https://ul.cdn946.net:8443/hls/vm5j8g61jhf5c.m3u8?s=7tLzlWRwH5Newai1r_RjFQ&e=1598620063
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Las Estrellas
 https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=7bCTq1ILNSM0JCcIORB65w&e=1598620139
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , MTV
 https://ul.cdn946.net:8443/hls/fz2tiwi4.m3u8?s=wqBD4mvxolY3O89Sw-xRfg&e=1598620584
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , MTV Hits
 https://ul.cdn946.net:8443/hls/bjm22azz.m3u8?s=0i0bmGqHAcFSRHC-Dg7nfg&e=1598620669
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , National Geographic
 https://ul.cdn946.net:8443/hls/z5nucmbcbtfcnw3.m3u8?s=9xHSpVUVC_vIAdTiVzBk8g&e=1598620790
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , National Geographic Wild
 https://ul.cdn946.net:8443/hls/ee9k5h.m3u8?s=dCTjXNOHPZBqUwBNLQyrDg&e=1598620929
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Nat Geo Kids
 https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=IL7euKAEO13Dy8F4N-b61g&e=1598621365
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Nick
 https://ul.cdn946.net:8443/hls/1bftbo.m3u8?s=fspxOOS1880woLotV2J0kA&e=1598621032
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Nick 2
 https://ul.cdn946.net:8443/hls/riarfw.m3u8?s=WG_xUPoVdc2FZ4g9ehSIMQ&e=1598621104
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Space
 https://ul.cdn946.net:8443/hls/e6fwc84nht.m3u8?s=F2373DvjEg7JRNa_s38K8A&e=1598621179
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Studio Universal
 https://ul.cdn946.net:8443/hls/7a6ujxz.m3u8?s=gILdjweTIm6H26XFlWJ5pw&e=1598621314
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Syfy
 https://ul.cdn946.net:8443/hls/e0q635t14060m.m3u8?s=XaaMO0YjsN4BXg04BqGEVQ&e=1598621500
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Telemundo Internacional
 https://ul.cdn946.net:8443/hls/learfrfaw3gwez.m3u8?s=h2yj2gs12O_b2Q4965g3gg&e=1598621592
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , TNT
 https://ul.cdn946.net:8443/hls/sxlrw3nonwnvr.m3u8?s=1GkuM4HeCy-tXBEnMjHT6Q&e=1598621800
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , TNT Series
 https://ul.cdn946.net:8443/hls/5tgiw8kze1vb.m3u8?s=aYFT7ox-j7iBAo38wCr2iA&e=1598622020
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Universal Channel
 https://ul.cdn946.net:8443/hls/ofn9h.m3u8?s=BYVNHoypr2TngaHSQLvrWQ&e=1598622078
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Warner
 https://ul.cdn946.net:8443/hls/neexj84b3.m3u8?s=fo69Xmq3A-xHxgeftk1Ihw&e=1598622128
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Distrito Comedia
 https://ul.cdn946.net:8443/hls/3gs5nd5d.m3u8?s=M1sHKmOVPIN9eAud-FyytQ&e=1598622257
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Ecuavisa
 https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqsNIO7NTKF8VxAkzPUj-iQQ)/dm/3/x7u0ryc/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Teleamazonas
 https://youvideostreaming.club/hls/tvec4.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , TC
 https://5d4837686f698.streamlock.net/tctelevision/tctelevision/chunklist_w22103015.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , RTS
 https://youvideostreaming.club/hls/tvec3.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ejemplo.com/Imagen.jpg" , Canal UNO
 https://youvideostreaming.club/hls/tvec4.m3u8https://youvideostreaming.club/hls/tvec4.m3u8
